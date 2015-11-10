@@ -1,0 +1,9 @@
+#include "resour.hpp"
+
+MEN MENU
+{
+POPUP "&Gra"
+{
+MENUITEM "&Losowanie",Losowanie
+}
+}

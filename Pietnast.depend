@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1384801982 source:c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\main.cpp
+	<windows.h>
+	<gdiplus.h>
+	<windowsx.h>
+	"Logic.hpp"
+	"Kwadraty.hpp"
+	"pomoc.hpp"
+	"resour.hpp"
+
+1379973346 c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\kwadraty.hpp
+	<iostream>
+	<gdiplus.h>
+	<windows.h>
+	<vector>
+	<stdio.h>
+	"pomoc.hpp"
+
+1379973764 source:c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\kwadraty.cpp
+	"Kwadraty.hpp"
+	<iostream>
+
+1379975247 source:c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\logic.cpp
+	"Logic.hpp"
+	<iostream>
+
+1379971024 c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\logic.hpp
+	<algorithm>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+	"pomoc.hpp"
+
+1379888148 c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\pomoc.hpp
+
+1384801552 source:c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\res.rc
+	"resour.hpp"
+
+1384801278 c:\users\lukasz\programy\projekty w c,c++\projekty\pietnastka\resour.hpp
+
